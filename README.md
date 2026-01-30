@@ -1,11 +1,10 @@
 ### Hi there, I'm Sai 👋
 
-I am a **Network Development Engineer** with **6 years** of experience. My expertise spans the full infrastructure lifecycle—from architecting secure enterprise networks (Routing, Switching, Firewalls) to building and deploying serverless cloud applications. I treat infrastructure as software, ensuring scalability through code and automation.
+I am a **Network Development Engineer** with **6 years** of experience. My expertise spans the full infrastructure lifecycle from architecting secure enterprise networks (Routing, Switching, Firewalls) to building and deploying serverless cloud (AWS) applications. I treat infrastructure as software, ensuring scalability through code (Terraform) and automation (Python, Ansible).
 
 - 🔭 **Current Focus:**
   - **End-to-End Infrastructure:** Managing global backbones (BGP/OSPF), Firewalls (Fortinet/Palo Alto), VPNs, and securing Hybrid Cloud connectivity (On-Prem to AWS).
-  - **DNS & Traffic Management:** Full lifecycle management across Route 53, Cloudflare, and GoDaddy.
-  - **Cloud Native Development:** Designing serverless backends (Lambda, Python), managing databases (DynamoDB, MySQL, SQL/NoSQL), and handling migrations.
+  - **Cloud Native Development:** Designing serverless backends (Lambda, Python), managing databases (DynamoDB, MySQL, SQL/NoSQL).
   - **App Deployment:** Implementing robust Git workflows and CI/CD pipelines to deploy cloud solutions.
 
 - ☁️ **Certifications:**
@@ -22,12 +21,11 @@ I am a **Network Development Engineer** with **6 years** of experience. My exper
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Automation/Backend), Go, JavaScript, Bash, SQL |
-| **Network Automation** | Ansible, Nornir, Netmiko, Cron Jobs |
-| **Cloud (AWS)** | VPC, Route 53, EC2, Lambda, DynamoDB, RDS |
-| **Core Networking** | BGP, OSPF, MPLS, VXLAN, Cisco IOS, Juniper JunOS |
-| **Security** | Fortinet, Palo Alto, Checkpoint, F5 Big-IP LTM/GTM |
-| **DevOps** | Git, Jenkins, Prometheus, Grafana, Docker |
+| **Network Automation** | Python, Ansible, Nornir, Netmiko, Cron Jobs |
+| **Cloud (AWS)** | VPC, Route 53, EC2, Lambda, DynamoDB, RDS, S3 |
+| **Core Networking** | BGP, OSPF, MPLS, Cisco IOS, Juniper JunOS |
+| **Security** | Fortinet, Palo Alto, Checkpoint, F5 Big-IP LTM/GTM, Cisco |
+| **Observability** | Prometheus, Grafana, Splunk |
 
 ---
 
@@ -48,6 +46,6 @@ I am a **Network Development Engineer** with **6 years** of experience. My exper
 #### 3. Cloud Infrastructure Migration
 *Infrastructure as Code patterns for hybrid-cloud setups.*
 - **Context:** Leveraging experience from migrating DNS to **AWS Route 53** (60% cost reduction) and deploying VPCs.
-- **Tech:** Terraform (Learning), AWS CLI.
+- **Tech:** Terraform, AWS CLI.
 
 ---
