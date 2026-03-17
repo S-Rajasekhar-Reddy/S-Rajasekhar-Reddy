@@ -1,9 +1,9 @@
 ### Hi there, I'm Sai 👋
 
-I am a **Network Development Engineer** with **6 years** of experience. My expertise spans the full infrastructure lifecycle from architecting secure enterprise networks (Routing, Switching, Firewalls) to building and deploying serverless cloud (AWS) applications. I treat infrastructure as software, ensuring scalability through code (Terraform) and automation (Python, Ansible).
+I am a **Network Development Engineer** with **6 years** of experience. My expertise spans the full infrastructure lifecycle from architecting secure enterprise networks to building and deploying serverless cloud (AWS) applications. I treat infrastructure as software, ensuring scalability through code (Terraform) and automation (Python, Ansible).
 
 - 🔭 **Current Focus:**
-  - **End-to-End Infrastructure:** Managing global backbones (BGP/OSPF), Firewalls (Fortinet/Palo Alto), VPNs, and securing Hybrid Cloud connectivity (On-Prem to AWS).
+  - **End-to-End Infrastructure:** Managing global backbones (BGP/OSPF), Firewalls (Fortinet/Palo Alto/Cisco/Checkpoint), VPNs, and securing Hybrid Cloud connectivity (On-Prem to AWS).
   - **Cloud Native Development:** Designing serverless backends (Lambda, Python), managing databases (DynamoDB, MySQL, SQL/NoSQL).
   - **App Deployment:** Implementing robust Git workflows and CI/CD pipelines to deploy cloud solutions.
 
@@ -12,6 +12,7 @@ I am a **Network Development Engineer** with **6 years** of experience. My exper
   - AWS Certified SysOps Administrator
   - Cisco Certified Network Professional (CCNP) - Enterprise
   - Cisco Certified DevNet Professional (CCNP DevNet)
+  - HashiCorp Certified: Terraform Associate (HCTA0-004)
 
 - 🎓 **Education:** Master's in Computer Science (3.77 GPA).
 
@@ -21,7 +22,7 @@ I am a **Network Development Engineer** with **6 years** of experience. My exper
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Network Automation** | Python, Ansible, Nornir, Netmiko, Cron Jobs |
+| **Network Automation** | Python, Terraform, Ansible, Nornir, Netmiko, Cron Jobs |
 | **Cloud (AWS)** | VPC, Route 53, EC2, Lambda, DynamoDB, RDS, S3 |
 | **Core Networking** | BGP, OSPF, MPLS, Cisco IOS, Juniper JunOS |
 | **Security** | Fortinet, Palo Alto, Checkpoint, F5 Big-IP LTM/GTM, Cisco |
